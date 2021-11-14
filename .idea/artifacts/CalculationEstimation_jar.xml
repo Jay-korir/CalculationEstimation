@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CalculationEstimation:jar">
+    <output-path>$USER_HOME$/Desktop/CalculationEstimation_jar</output-path>
+    <root id="archive" name="CalculationEstimation.jar">
+      <element id="module-output" name="CalculationEstimation" />
+    </root>
+  </artifact>
+</component>
